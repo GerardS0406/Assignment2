@@ -671,6 +671,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stats: {fileID: 11400000, guid: b5422fb93f9235940a7b43bef4dde9f9, type: 2}
+  text: {fileID: 533169137}
 --- !u!1 &196565415
 GameObject:
   m_ObjectHideFlags: 0
